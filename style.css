@@ -271,27 +271,6 @@ header {
   font-weight: 400;
 }
 
-.work-arrow {
-  margin: 2rem 0;
-}
-
-.work-arrow a {
-  font-size: 1rem;
-  text-decoration: none;
-  color: white;
-}
-
-.work-arrow-2 {
-  margin: 2rem 0;
-}
-
-.work-arrow-2 a {
-  font-size: 1rem;
-  text-decoration: none;
-  color: #25b79f;
-  display: none;
-}
-
 /* ////.....Portfolio......///// */
 
 .projects {
@@ -520,9 +499,7 @@ header {
     width: 100%;
   }
 
-  .work-arrow {
-    display: none;
-  }
+  
 
   .right-content h1 {
     margin-top: 3.2rem;
@@ -552,13 +529,7 @@ header {
     margin-bottom: 0.5rem;
   }
 
-  .work-arrow-2 a {
-    font-size: 1.3rem;
-    text-decoration: none;
-    color: #25b79f;
-    display: block;
-    text-align: center;
-  }
+  
 
   .contact-content {
     width: 100%;
@@ -587,9 +558,7 @@ header {
     width: 100%;
   }
 
-  .work-arrow {
-    display: none;
-  }
+  
 
   .right-content h1 {
     margin-top: 3.2rem;
@@ -619,13 +588,7 @@ header {
     margin-bottom: 0.5rem;
   }
 
-  .work-arrow-2 a {
-    font-size: 1.3rem;
-    text-decoration: none;
-    color: #25b79f;
-    display: block;
-    text-align: center;
-  }
+  
 
   .contact-content {
     width: 100%;
@@ -654,9 +617,7 @@ header {
     align-items: center;
   }
 
-  .work-arrow {
-    display: none;
-  }
+  
 
   .left-content h1 {
     margin-top: 3.2rem;
@@ -668,13 +629,7 @@ header {
     text-align: center;
   }
 
-  .work-arrow-2 a {
-    font-size: 1.3rem;
-    text-decoration: none;
-    color: #25b79f;
-    display: block;
-    text-align: center;
-  }
+  
 
   .contact-content {
     width: 100%;
